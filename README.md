@@ -1,4 +1,4 @@
-## Fully covered and explained hands-on concepts from the deeplearning.ai short course on Langraph
+## Fully covered and explained hands-on concepts
 
 - For **annotations** and concise pdfs, see `/framework_course/annotations`
 - The commented & explained lecture notebooks are inside `/framework_course`
